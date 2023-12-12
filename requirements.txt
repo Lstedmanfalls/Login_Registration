@@ -1,0 +1,7 @@
+asgiref==3.4.1
+bcrypt==4.0.1
+Django==3.2.23
+python-dotenv==0.20.0
+pytz==2023.3.post1
+sqlparse==0.4.4
+typing_extensions==4.1.1
